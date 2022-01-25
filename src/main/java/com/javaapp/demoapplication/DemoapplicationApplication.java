@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DemoapplicationApplication {
 
 	public static void main(String[] args) {
+		//khguiguy
 		SpringApplication.run(DemoapplicationApplication.class, args);
 	}
 
